@@ -1,15 +1,20 @@
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI, HTTPException, Depends
 from sqlalchemy.orm import Session
 from db.database import Base, engine, get_db
 from entity.produto_model import ProdutoCreate, ProdutoRead
 from db.produto_schema import ProdutoDB
-app = FastAPI(docs_url="/docs", redoc_url="/redoc")
 
 
-@app.on_event("startup")
-def startup():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     """Cria as tabelas do banco ao iniciar a aplicação."""
     Base.metadata.create_all(bind=engine)
+    yield
+
+
+app = FastAPI(docs_url="/docs", redoc_url="/redoc", lifespan=lifespan)
 
 
 @app.get("/health")
