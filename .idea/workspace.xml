@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd650f9d-fd56-4b51-8787-413c0cf3b758" name="Changes" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="50" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KSM-22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KSM-22/test_Pablo_Barbosa.git",
+    "accountId": "97cf6521-ab98-4465-9ff4-31286e0905f6"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8235934652082042" />
+      <entry key="MS500" value="2.037394991632681" />
+      <entry key="S2" value="2.514474109691513" />
+      <entry key="S5" value="2.7684134748755715" />
+      <entry key="S10" value="2.8801359874854846" />
+      <entry key="S30" value="3.19889385347903" />
+      <entry key="S60" value="3.865706881788199" />
+      <entry key="M2" value="5.5868012154877755" />
+      <entry key="M5" value="11.244060353814618" />
+      <entry key="M10" value="21.801889814735745" />
+      <entry key="M15" value="33.98241449901577" />
+      <entry key="M30" value="72.36370067552001" />
+      <entry key="H1" value="127.8780926454664" />
+      <entry key="H2" value="179.9765205542615" />
+      <entry key="H4" value="216.56972794816213" />
+      <entry key="D1" value="254.46386088697622" />
+      <entry key="W1" value="261.7593095346239" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.414129628251307E-268" />
+      <entry key="MS500" value="3.5213219180459627E-54" />
+      <entry key="S2" value="4.3318801497769256E-14" />
+      <entry key="S5" value="4.5151332636747755E-6" />
+      <entry key="S10" value="0.0021248842941890443" />
+      <entry key="S30" value="0.12857746213292565" />
+      <entry key="S60" value="0.36252081101500866" />
+      <entry key="M2" value="0.6630729846990215" />
+      <entry key="M5" value="1.3416745011112687" />
+      <entry key="M10" value="3.166232537591625" />
+      <entry key="M15" value="5.38266689124384" />
+      <entry key="M30" value="10.806624389853152" />
+      <entry key="H1" value="16.52485122080229" />
+      <entry key="H2" value="20.927125243058367" />
+      <entry key="H4" value="23.71175141478969" />
+      <entry key="D1" value="26.41247758895276" />
+      <entry key="W1" value="26.915035577892205" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8857257725291943" />
+      <entry key="MS500" value="1.3339241008423692" />
+      <entry key="S2" value="2.203034793633183" />
+      <entry key="S5" value="2.6216303119082944" />
+      <entry key="S10" value="2.8038616986605116" />
+      <entry key="S30" value="3.2896872351312725" />
+      <entry key="S60" value="4.198393017008757" />
+      <entry key="M2" value="6.225720090485242" />
+      <entry key="M5" value="12.565053729562674" />
+      <entry key="M10" value="24.94655445429803" />
+      <entry key="M15" value="39.342517673615326" />
+      <entry key="M30" value="83.14879415927312" />
+      <entry key="H1" value="144.3864812135656" />
+      <entry key="H2" value="200.8931437741893" />
+      <entry key="H4" value="240.27549718658761" />
+      <entry key="D1" value="280.8752219605638" />
+      <entry key="W1" value="288.67418241619583" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J8gBoFqBAJ7XFmTKB5hyrz7q3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_produto.test_atualizar_nome_produto.test_atualizar_preco_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_acessar_nome_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_atualizar_codigo_barras_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_atualizar_nome_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_atualizar_peso_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_atualizar_preco_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_atualizar_quant_estoque_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_com_sucesso.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_nome_vazio.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_sem_estoque.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_sem_nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_sem_peso.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_sem_quantidade.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_produto.test_criar_produto_sem_valodade.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for tests.test_produto.test_criar_produto_nome_vazio">
+    <configuration name="Python tests for tests.test_produto.test_atualizar_codigo_barras_produto" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testes_por_niveis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_produto.test_atualizar_codigo_barras_produto&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_produto.test_atualizar_peso_produto" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testes_por_niveis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_produto.test_atualizar_peso_produto&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_produto.test_atualizar_preco_produto" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testes_por_niveis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_produto.test_atualizar_preco_produto&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_produto.test_atualizar_quant_estoque_produto" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testes_por_niveis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_produto.test_atualizar_quant_estoque_produto&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_produto.test_criar_produto_nome_vazio" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testes_por_niveis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_produto.test_criar_produto_nome_vazio&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.test_produto.test_criar_produto_nome_vazio" />
+        <item itemvalue="Python tests.Python tests for tests.test_produto.test_atualizar_codigo_barras_produto" />
+        <item itemvalue="Python tests.Python tests for tests.test_produto.test_atualizar_peso_produto" />
+        <item itemvalue="Python tests.Python tests for tests.test_produto.test_atualizar_quant_estoque_produto" />
+        <item itemvalue="Python tests.Python tests for tests.test_produto.test_atualizar_preco_produto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd650f9d-fd56-4b51-8787-413c0cf3b758" name="Changes" comment="" />
+      <created>1789047977626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789047977626</updated>
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1790342161763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790342161763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
