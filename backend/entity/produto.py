@@ -26,7 +26,7 @@ class Produto:
         return preco
 
     def valida_quant_estoque(self, quant_estoque):
-        """Valida a quantidade em estoque."""
+        """Valida a quantqidade em estoque."""
         if quant_estoque is None:
             raise ValueError("Quantidade em estoque não pode ser vazia")
         return quant_estoque
